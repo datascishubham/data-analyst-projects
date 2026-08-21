@@ -43,9 +43,6 @@ The interactive dashboard tracks:
 - Sales by Category
 - Top Products
 
-## Dashboard Preview
-
-![Sales Analysis Dashboard](dashboard/sales-analysis-dashboard.png)
 
 ## Key Insights
 
