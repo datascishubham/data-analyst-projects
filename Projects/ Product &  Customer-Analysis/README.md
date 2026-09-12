@@ -117,7 +117,7 @@ An interactive Power BI dashboard was built to let stakeholders explore performa
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone <https://github.com/datascishubham/data-analyst-projects>
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn
