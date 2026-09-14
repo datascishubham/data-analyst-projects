@@ -84,16 +84,20 @@ See [`sql/queries.sql`](sql/queries.sql) for the full query set.
 
 An interactive Power BI dashboard was built to let stakeholders explore performance without reading the full analysis.
 
-**KPI Cards:** Total Revenue · Return Loss · Net Revenue · Total Orders · Total Customers · Average Order Value
+**KPI Cards:** Total Revenue · Total Orders · Average Order Value · Total Customers · Total Return Loss · Repeat Purchase Rate · VIP Revenue (Top 10)
 
 **Pages:**
-- **Overview** — KPIs, monthly revenue trend, top 5 products/customers/countries at a glance
-- **Product Analysis** — top/bottom products by revenue, orders, and quantity
+- **Overview** — KPIs, revenue by year, new vs. repeat customer mix, revenue by country (map), monthly revenue trend
+- **Product Analysis** — top/bottom products by revenue and volume, product performance matrix
 - **Customer Analysis** — top/bottom customers, AOV distribution, one-time vs. repeat customers
-- **Country Analysis** — revenue by country and % contribution
-- **Returns Analysis** — return losses by product and customer
-
-![Dashboard Preview](images/dashboard_preview.png)
+- **Country Analysis** — repeat purchase rate, orders per customer, VIP revenue, top customers by revenue/orders
+- **Returns Analysis** — return loss, return quantity, return rate, top products/customers/countries by return loss
+![Dashboard Preview](<img width="1152" height="667" alt="Screenshot 2026-09-14 171600" src="https://github.com/user-attachments/assets/fba681c8-889e-4f85-b197-a656e8e659d8" />)
+(<img width="1140" height="663" alt="Screenshot 2026-09-14 171618" src="https://github.com/user-attachments/assets/6c03f276-c039-4bcf-86b6-85c0340f8f73" />)
+(<img width="1147" height="670" alt="Screenshot 2026-09-14 172141" src="https://github.com/user-attachments/assets/8d3ba0ab-be9f-4f49-b200-17b4a882f239" />)
+(<img width="1153" height="655" alt="Screenshot 2026-09-14 171701" src="https://github.com/user-attachments/assets/99f13a97-7d3a-48d8-bdcc-dc0763a58ddb" />
+)
+)
 
 ---
 
@@ -103,6 +107,8 @@ An interactive Power BI dashboard was built to let stakeholders explore performa
 - Revenue is driven by the **interaction between price and volume**, not either factor alone
 - A **small number of products and customers** are responsible for the majority of revenue — and, separately, for the majority of return-related losses
 - Customer value depends more on **order frequency and average order value** than on raw order count
+- A small number of non-product entries (manual adjustments, postage, discounts) exist in the raw data and are excluded from product-level performance metrics
+- Customer value depends more on order frequency and average order value than on raw order count
 
 ---
 
