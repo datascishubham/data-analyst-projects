@@ -132,7 +132,7 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook notebooks/product_customer_analysis.ipynb
 ```
 
-To explore the dashboard, open `dashboard/retail_dashboard.pbix` in Power BI Desktop.
+To explore the dashboard, open `Product & Customer Analysis` in Power BI Desktop.
 
 ---
 
