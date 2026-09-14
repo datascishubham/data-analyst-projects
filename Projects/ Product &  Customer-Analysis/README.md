@@ -92,12 +92,10 @@ An interactive Power BI dashboard was built to let stakeholders explore performa
 - **Customer Analysis** — top/bottom customers, AOV distribution, one-time vs. repeat customers
 - **Country Analysis** — repeat purchase rate, orders per customer, VIP revenue, top customers by revenue/orders
 - **Returns Analysis** — return loss, return quantity, return rate, top products/customers/countries by return loss
-![Dashboard Preview](<img width="1152" height="667" alt="Screenshot 2026-09-14 171600" src="https://github.com/user-attachments/assets/fba681c8-889e-4f85-b197-a656e8e659d8" />)
-(<img width="1140" height="663" alt="Screenshot 2026-09-14 171618" src="https://github.com/user-attachments/assets/6c03f276-c039-4bcf-86b6-85c0340f8f73" />)
-(<img width="1147" height="670" alt="Screenshot 2026-09-14 172141" src="https://github.com/user-attachments/assets/8d3ba0ab-be9f-4f49-b200-17b4a882f239" />)
-(<img width="1153" height="655" alt="Screenshot 2026-09-14 171701" src="https://github.com/user-attachments/assets/99f13a97-7d3a-48d8-bdcc-dc0763a58ddb" />
-)
-)
+![Dashboard Preview](<img width="1152" height="667" alt="Screenshot 2026-09-14 171600" src="https://github.com/user-attachments/assets/469287c5-5886-40a4-934b-d144064479a2" />)
+(<img width="1140" height="663" alt="Screenshot 2026-09-14 171618" src="https://github.com/user-attachments/assets/5d479754-a65b-4fc7-a569-2ae1ee278572" />)
+(<img width="1147" height="670" alt="Screenshot 2026-09-14 172141" src="https://github.com/user-attachments/assets/6851bc1e-45e4-4103-9046-b123d3c3f625" />)
+(<img width="1153" height="655" alt="Screenshot 2026-09-14 171701" src="https://github.com/user-attachments/assets/f3bf27f0-f511-4558-b285-bc332285e78a" />)
 
 ---
 
