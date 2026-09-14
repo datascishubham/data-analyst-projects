@@ -93,6 +93,8 @@ An interactive Power BI dashboard was built to let stakeholders explore performa
 - **Country Analysis** — repeat purchase rate, orders per customer, VIP revenue, top customers by revenue/orders
 - **Returns Analysis** — return loss, return quantity, return rate, top products/customers/countries by return loss
 ![Dashboard Preview](<img width="1152" height="667" alt="Screenshot 2026-09-14 171600" src="https://github.com/user-attachments/assets/469287c5-5886-40a4-934b-d144064479a2" />)
+(<img width="1152" height="667" alt="Screenshot 2026-09-14 171600" src="https://github.com/user-attachments/assets/824349c2-d6a3-4c14-a2c0-83f3d87c62bb" />
+)
 (<img width="1140" height="663" alt="Screenshot 2026-09-14 171618" src="https://github.com/user-attachments/assets/5d479754-a65b-4fc7-a569-2ae1ee278572" />)
 (<img width="1147" height="670" alt="Screenshot 2026-09-14 172141" src="https://github.com/user-attachments/assets/6851bc1e-45e4-4103-9046-b123d3c3f625" />)
 (<img width="1153" height="655" alt="Screenshot 2026-09-14 171701" src="https://github.com/user-attachments/assets/f3bf27f0-f511-4558-b285-bc332285e78a" />)
